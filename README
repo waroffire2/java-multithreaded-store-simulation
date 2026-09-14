@@ -1,0 +1,1 @@
+This is a Java concurrency simulation where customers arrive concurrently, wait in FCFS order, enter a capacity-limited store, shop, use one of several self-checkout registers, visit a cafeteria, and leave according to the required ordering rules.
